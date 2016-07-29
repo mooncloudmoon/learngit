@@ -6,4 +6,4 @@ ccccc
 ddddd
 eeeee
 create a new branch is quick
-create feature1 branch
+create a new branch feature1
